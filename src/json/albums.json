@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Closer",
+        "singer": "The chainsmokers",
+        "uri":"https://www.youtube.com/watch?v=agFMqNB9BYM&list=PLIPoTusqlz4mJa5HNKlHiQlPewaa8PqHN",
+        "image": "https://i.kfs.io/artist/global/747138,0v9/fit/300x300.jpg",
+        "image2": "https://headlineplanet.com/home/wp-content/uploads/2016/07/The-Chainsmokers-Closer-Cover-1024x1024.jpg"
+    },
+    {
+        "name": "Something Just like This",
+        "singer": "The chainsmokers",
+        "uri":"https://www.youtube.com/watch?v=FM7MFYoylVs&list=PLIPoTusqlz4mJa5HNKlHiQlPewaa8PqHN",
+        "image": "https://i.kfs.io/artist/global/747138,0v9/fit/300x300.jpg",
+        "image2": "https://i.ytimg.com/vi/66x64lf6INM/maxresdefault.jpg"
+    },
+    {
+        "name": "Don't Let Me Down",
+        "singer": "The chainsmokersr",
+        "uri":"https://www.youtube.com/watch?v=Io0fBr1XBUA&list=PLIPoTusqlz4mJa5HNKlHiQlPewaa8PqHN",
+        "image": "https://i.kfs.io/artist/global/747138,0v9/fit/300x300.jpg",
+        "image2": "https://i.ytimg.com/vi/qMH0Xglh7GA/maxresdefault.jpg"
+    },
+    {
+        "name": "Paris",
+        "singer": "The chainsmokers",
+        "uri":"https://www.youtube.com/watch?v=RhU9MZ98jxo&list=PLIPoTusqlz4mJa5HNKlHiQlPewaa8PqHN",
+        "image": "https://i.kfs.io/artist/global/747138,0v9/fit/300x300.jpg",
+        "image2": "https://pic.pimg.tw/sokloze/1485273624-1822402390_wn.jpg"
+    },
+    {
+        "name": "Sick Boy",
+        "singer": "The chainsmokers",
+        "uri":"https://www.youtube.com/watch?v=eACohWVwTOc&list=PLIPoTusqlz4mJa5HNKlHiQlPewaa8PqHN",
+        "image": "https://i.kfs.io/artist/global/747138,0v9/fit/300x300.jpg",
+        "image2": "https://www.ccr.com.tw/GIMG/379/0190759652428_grhv.JPG"
+    },
+    {
+        "name": "All We Know",
+        "singer": "The chainsmokers",
+        "uri":"https://www.youtube.com/watch?v=lEi_XBg2Fpk&list=PLIPoTusqlz4mJa5HNKlHiQlPewaa8PqHN",
+        "image": "https://i.kfs.io/artist/global/747138,0v9/fit/300x300.jpg",
+        "image2": "https://pic.pimg.tw/aerirabbit/1475194344-40191323.jpg"
+    }
+]
